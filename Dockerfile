@@ -1,2 +1,2 @@
 FROM alpine:edge
-RUN apk --no-cache add hugo~=0.5 git~=2.23
+RUN apk --no-cache add hugo~=0.55 git~=2.23
